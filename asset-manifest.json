@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://himani1010.github.io/csb-g2xiu/static/css/main.c41ee3b4.chunk.css",
+    "main.js": "https://himani1010.github.io/csb-g2xiu/static/js/main.67d1de34.chunk.js",
+    "main.js.map": "https://himani1010.github.io/csb-g2xiu/static/js/main.67d1de34.chunk.js.map",
+    "runtime-main.js": "https://himani1010.github.io/csb-g2xiu/static/js/runtime-main.be39bc93.js",
+    "runtime-main.js.map": "https://himani1010.github.io/csb-g2xiu/static/js/runtime-main.be39bc93.js.map",
+    "static/js/2.ebedfd81.chunk.js": "https://himani1010.github.io/csb-g2xiu/static/js/2.ebedfd81.chunk.js",
+    "static/js/2.ebedfd81.chunk.js.map": "https://himani1010.github.io/csb-g2xiu/static/js/2.ebedfd81.chunk.js.map",
+    "index.html": "https://himani1010.github.io/csb-g2xiu/index.html",
+    "precache-manifest.c447bf125c782f9a935884f2942cfcb8.js": "https://himani1010.github.io/csb-g2xiu/precache-manifest.c447bf125c782f9a935884f2942cfcb8.js",
+    "service-worker.js": "https://himani1010.github.io/csb-g2xiu/service-worker.js",
+    "static/css/main.c41ee3b4.chunk.css.map": "https://himani1010.github.io/csb-g2xiu/static/css/main.c41ee3b4.chunk.css.map",
+    "static/js/2.ebedfd81.chunk.js.LICENSE.txt": "https://himani1010.github.io/csb-g2xiu/static/js/2.ebedfd81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be39bc93.js",
+    "static/js/2.ebedfd81.chunk.js",
+    "static/css/main.c41ee3b4.chunk.css",
+    "static/js/main.67d1de34.chunk.js"
+  ]
+}
